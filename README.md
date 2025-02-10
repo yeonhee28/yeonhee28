@@ -5,7 +5,7 @@
 문제 해결에 대한 책임감을 갖고, 안정적이며 유지 보수하기 쉬운 코드를 작성하기 위해 꾸준히 노력하고 있습니다.
 
 <br/><br/>
-## 🔨기술 스택
+## 🔨Tech Stacks
 <div align=left> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -26,3 +26,19 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
+
+<br/><br/>
+## 🖥️Projects
+-
+-
+
+<br/><br/>
+## 📕Education
+|기간|내용|
+|--|--|
+|Cell1|Cell2|Cell1|Cell2|
+|Cell1|Cell2|
+|Cell1|Cell2|
+|Cell1|Cell2|
+
+
